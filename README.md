@@ -1,6 +1,6 @@
-<img width="1627" height="939" alt="image" src="https://github.com/user-attachments/assets/9912e56f-b47a-40e9-a4bd-81e47bd4ecb6" />
+# PPD and DVA calculator
 
-# PPD and DVA Calculator
+<img width="1627" height="939" alt="image" src="https://github.com/user-attachments/assets/9912e56f-b47a-40e9-a4bd-81e47bd4ecb6" />
 
 This repository contains a MATLAB app for converting between:
 
